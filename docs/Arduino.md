@@ -1,55 +1,4 @@
-Keyes 37合1 传感器套件 for Arduino
-
-![](media/37685dd3f29a72720773e0326d9e5814.jpg)
-
-
-# 说明
-
-这款套件包含我们玩单片机时常用到的37款传感器模块，如有源蜂鸣器模块、5V继电器模块、温湿度传感器等等。它适用于各种单片机和树莓派。同时我们为套件里的每一款传感器都编写了资料，资料里介绍了传感器模块基于Arduino开发板的使用方法，包含了接线方法、测试代码、实验结果等信息。
-
-# 清单
-
-
-|编码|名称|描述|数量|图片|
-|-|-|-|-|-|
-|1|Keyes模块|keyes 草帽LED白发白模块(焊盘孔) 红色 环保|1|![](media/5f788ed70cf308cce5be013be17e404b.jpg)|
-|2|Keyes模块|keyes 干簧管(焊盘孔) 红色 环保|1|![](media/becb4f4c9a6ad81cb6b88792c61e9e7e.jpg)|
-|3|Keyes模块|keyes 双色LED模块(焊盘孔) 红色 环保|1|![](media/93ff8c2b5ab5438040e8e748e1fb8ca1.jpg)|
-|4|Keyes模块|keyes 手指测心跳模块(焊盘孔) 红色 环保|1|![](media/7f6c99606d4892d31c3865b0b4572a85.jpg)|
-|5|Keyes模块|keyes 贴片RGB模块(焊盘孔) 红色 环保|1|![](media/cdbaeb586e45c9656f388f24fe8f195b.jpg)|
-|6|Keyes模块|keyes 有源蜂鸣器模块焊盘孔) 红色 环保|1|![](media/eb7828e841bc55abdc71d1a5844f71e9.jpg)|
-|7|Keyes模块|keyes 无源蜂鸣器模块(焊盘孔) 红色 环保|1|![](media/21b2181770eee830b2c044340b38c449.jpg)|
-|8|Keyes模块|keyes 旋转编码器模块(焊盘孔) 红色 环保|1|![](media/0bcd6a533701dcdb846495f16ac01bbb.jpg)|
-|9|Keyes模块|keyes 可调电位器模块(焊盘孔) 红色 环保|1|![](media/6de9951025147a51c077f749cfb989b7.jpg)|
-|10|Keyes模块|keyes 5V 单路继电器模块(焊盘孔) 红色 环保|1|![](media/ceef67cb50b0ae35b9bc8d0c4cdef47d.jpg)|
-|11|Keyes模块|keyes 插件RGB(焊盘孔) 红色 环保|1|![](media/11f75355f83f952abcecbe5b732ca0a4.jpg)|
-|12|keyes传感器|keyes 热敏电阻传感器(焊盘孔) 红色 环保|1|![](media/878e1c6bbf8122e6b37659bdcdcd8fc7.jpg)|
-|13|keyes传感器|keyes 按键传感器(焊盘孔) 红色 环保|1|![](media/6edc99fd2d36d9f4ae80697ee3b5fb8e.jpg)|
-|14|keyes传感器|keyes 魔术光杯传感器(焊盘孔) 红色 环保|2|![](media/093aa5dd5ed5182a40442197fe9ad3f9.jpg)|
-|15|keyes传感器|keyes DHT11温湿度传感器(焊盘孔) 红色 环保|1|![](media/bfd1437299a2f550f6ef8286ce135ea7.jpg)|
-|16|keyes传感器|keyes 光敏电阻传感器(焊盘孔) 红色 环保|1|![](media/c15be0114eee446533bce6e0b4089516.jpg)|
-|17|keyes传感器|keyes 倾斜模块传感器(焊盘孔) 红色 环保|1|![](media/9b811064fbdc921ad3a128dc2af40ae7.jpg)|
-|18|keyes传感器|keyes 光折断传感器(焊盘孔) 红色 环保|1|![](media/e5e8d82cd500780f715c59913a726617.jpg)|
-|19|keyes传感器|keyes ADXL345加速度传感器(焊盘孔) 红色 环保|1|![](media/a5accbbdafb517d7cdc93ac005c1599f.jpg)|
-|20|keyes传感器|keyes 麦克风声音传感器(焊盘孔) 红色 环保|1|![](media/6d61281d7a1c7d1d730134fc96b2e2d0.jpg)|
-|21|keyes传感器|keyes 霍尔传感器(焊盘孔) 红色 环保|1|![](media/450032afebd30003294081fad7a2a060.jpg)|
-|22|keyes传感器|keyes 碰撞传感器(焊盘孔) 红色 环保|1|![](media/849d7c5319546713ed0fa951021967a1.jpg)|
-|23|keyes传感器|keyes 红外发射传感器(焊盘孔) 红色 环保|1|![](media/98cdea6765e5a7c0a2d517ffe1e4ab57.jpg)|
-|24|keyes传感器|keyes 超声波传感器|1|![](media/965014fa9127a4ac60fd8b96278cd23c.jpg)|
-|25|keyes传感器|keyes MQ-2 烟雾传感器(焊盘孔) 红色 环保|1|![](media/b602307c221bfc4daaccd6ad1afd1ce1.jpg)|
-|26|keyes传感器|keyes 敲击模块传感器(焊盘孔) 红色 环保|1|![](media/fdc5e8aac0843151064ea6e4418fb79c.jpg)|
-|27|keyes传感器|keyes 电容触摸传感器(焊盘孔) 红色 环保|1|![](media/86d0a3d44a4637f20b8579ee3f84e677.jpg)|
-|28|keyes传感器|keyes 红外接收传感器(焊盘孔) 红色 环保|1|![](media/29754a3f0b08b068b64a9732d758c72e.jpg)|
-|29|keyes传感器|keyes 摇杆模块传感器(焊盘孔) 红色 环保|1|![](media/3422eaffa30fb648bb2401c4143add8c.jpg)|
-|30|keyes传感器|keyes MQ-3 酒精传感器(焊盘孔) 红色 环保|1|![](media/42374f5705d4b1924bc7cab393528d50.jpg)|
-|31|keyes传感器|keyes 避障传感器(焊盘孔) 红色 环保|1|![](media/4d20ab87988707e1715f69e8e5a06d0a.jpg)|
-|32|keyes传感器|keyes LM35温度传感器(焊盘孔) 红色 环保|1|![](media/92a0ba0a101a82290ddfcc3889e86b8f.jpg)|
-|33|keyes传感器|keyes 人体红外热释电传感器(焊盘孔) 红色 环保|1|![](media/dcd02b9f029d3deabeda605a8ce0853b.jpg)|
-|34|keyes传感器|keyes 激光头传感器模块(焊盘孔) 红色 环保|1|![](media/ab35076537cf1b9b57ad7e68418fde71.jpg)|
-|35|keyes传感器|keyes 巡线传感器(焊盘孔) 红色 环保|1|![](media/fdf7b1e1f8e72064c10e00e35997011d.jpg)|
-|36|keyes传感器|keyes 18B20温度传感器(焊盘孔) 红色 环保|1|![](media/96778679bdef5a7387150faab12a129e.jpg)|
-|37|keyes传感器|keyes TEMT6000光线传感器(焊盘孔) 红色 环保|1|![](media/1d1804bd5225a6f405fbd2d3aff93ebc.jpg)|
-
+# Arduino
 
 # Arduino IDE和驱动的安装
 
@@ -3127,14 +3076,6 @@ delay(100); //延迟0.1秒
 按照上图接线，上传好程序，上电后，打开窗口监视器，设置波特率为9600，即可看到代表当前光照强度的模拟值，如下图。
 
 ![](media/2c9ff6af0da53e4567c0ee4a0a9b4bab.png)
-
-# 相关资料链接
-
-<https://pan.baidu.com/s/1S_MydChhnCQKVBrA2UDqbg>
-
-提取码：n7mu
-
-
 
 
 
